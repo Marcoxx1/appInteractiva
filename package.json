@@ -1,0 +1,24 @@
+{
+  "name": "appinteractiva",
+  "version": "1.0.0",
+  "description": "Aplicacion interactiva con el usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Marcoxx1/appInteractiva.git"
+  },
+  "author": "Marco Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marcoxx1/appInteractiva/issues"
+  },
+  "homepage": "https://github.com/Marcoxx1/appInteractiva#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^9.0.0"
+  }
+}
